@@ -1,0 +1,38 @@
+{
+  "Todo": [
+    {
+      "name": "asd",
+      "department": "asdas",
+      "gender": "asdas",
+      "role": "asdsd",
+      "salary": "asdas",
+      "id": 1
+    },
+    {
+      "name": "asd",
+      "department": "asda",
+      "gender": "asdasd",
+      "role": "asdas",
+      "salary": "adas",
+      "id": 2
+    },
+    {
+      "name": "asdasdasda",
+      "department": "asda",
+      "gender": "asdas",
+      "role": "asdasd",
+      "salary": "asda",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,25 @@
+.container {
+    position: relative;
+  /* background-color: aqua; */
+  background-image: linear-gradient(to right, #fc5c7d, #6a82fb);
+  height: auto;
+}
+.nav {
+  position: fixed;
+  top: 0;
+  background-color: black;
+  color: white;
+  height: 4vw;
+  width: 100%;
+}
+.nav>h1{
+    font-size: xx-large;
+    margin-top: 1%;
+}
+.second {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  margin-top: 4vw;
+  justify-content: space-evenly;
+}
