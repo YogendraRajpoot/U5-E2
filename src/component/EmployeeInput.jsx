@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
-import style from "./TodoInput.module.css";
+import style from "./EmployeeInput.module.css";
 
-export const TodoInput = ({ data, setData }) => {
+export const EmployeeInput = ({ data, setData }) => {
   const [name, setName] = useState("");
   const [department, setDepartment] = useState("");
   const [gender, setGender] = useState("");
