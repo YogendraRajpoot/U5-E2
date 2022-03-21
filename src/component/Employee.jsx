@@ -14,7 +14,7 @@ export const Employee = () => {
       </div>
       <div className={style.second}>
         <EmployeeInput data={data} setData={setData}  />
-        <EmployeeList data={data} />
+        <EmployeeList data={data} setData={setData} />
       </div>
     </div>
   );

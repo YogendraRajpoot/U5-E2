@@ -13,7 +13,7 @@ export const EmployeeInput = ({ data, setData }) => {
   }, []);
 
   const getTodo = () => {
-    fetch(`http://localhost:3001/Todo`)
+    fetch(`http://localhost:3001/Employee`)
       .then((res) => res.json())
       .then((res) => setData(res));
   };
@@ -26,7 +26,7 @@ export const EmployeeInput = ({ data, setData }) => {
       salary,
     };
 
-    fetch("http://localhost:3001/Todo", {
+    fetch("http://localhost:3001/Employee", {
       method: "Post",
       body: JSON.stringify(onload),
       headers: { "content-type": "application/json" },
