@@ -1,7 +1,7 @@
 import React from "react";
-import style from "./TodoList.module.css";
+import style from "./EmployeeList.module.css";
 
-export const TodoList = ({ data }) => {
+export const EmployeeList = ({ data }) => {
   return (
     <div className={style.container}>
       <div className={style.top}>
