@@ -1,35 +1,35 @@
 {
   "Todo": [
     {
-      "name": "asd",
-      "department": "asdas",
-      "gender": "asdas",
-      "role": "asdsd",
-      "salary": "asdas",
+      "name": "Yogendra",
+      "department": "IT",
+      "gender": "Male",
+      "role": "Head",
+      "salary": "50,000",
       "id": 1
     },
     {
-      "name": "asd",
-      "department": "asda",
-      "gender": "asdasd",
-      "role": "asdas",
-      "salary": "adas",
+      "name": "Anuradha",
+      "department": "Finance",
+      "gender": "Female",
+      "role": "Head",
+      "salary": "35,000",
       "id": 2
     },
     {
-      "name": "asdasdasda",
-      "department": "asda",
-      "gender": "asdas",
-      "role": "asdasd",
-      "salary": "asda",
+      "name": "Raghvendra",
+      "department": "IT",
+      "gender": "Male",
+      "role": "Head",
+      "salary": "60,000",
       "id": 3
     },
     {
-      "name": "asda",
-      "department": "asdad",
-      "gender": "asda",
-      "role": "adad",
-      "salary": "asda",
+      "name": "Rahul",
+      "department": "Marketing",
+      "gender": "Male",
+      "role": "Junior",
+      "salary": "15,000",
       "id": 4
     }
   ],
