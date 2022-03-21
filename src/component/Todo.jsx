@@ -4,7 +4,7 @@ import { TodoList } from "./TodoList";
 import style from "./Todo.module.css"
 
 
-export const Employee = () => {
+export const Todo = () => {
   const [data, setData] = useState([]);
 
   return (
