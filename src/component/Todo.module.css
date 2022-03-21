@@ -2,7 +2,8 @@
     position: relative;
   /* background-color: aqua; */
   background-image: linear-gradient(to right, #fc5c7d, #6a82fb);
-  height: auto;
+  /* height: auto; */
+  min-height: 900px;
 }
 .nav {
   position: fixed;
@@ -11,6 +12,7 @@
   color: white;
   height: 4vw;
   width: 100%;
+  z-index: 1;
 }
 .nav>h1{
     font-size: xx-large;
